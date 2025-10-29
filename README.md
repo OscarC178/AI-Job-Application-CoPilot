@@ -1,7 +1,4 @@
-AI-Job-Application-CoPilot
-AI Job Application Co-pilot in Google Sheets. It automatically pulls in job listings, then uses AI to analyze descriptions against your master CV, generating tailored bullets, outreach messages, and predicted interview questions to streamline your job hunt.
-
-##  <img width="24" height="32" alt="robby_the_robot" src="https://github.com/user-attachments/assets/39922d9e-d13d-4daa-8a28-a6fc5d3eb59a" />AI Job Application Co-pilot
+##  <img width="24" height="32" alt="robby_the_robot" src="https://github.com/user-attachments/assets/39922d9e-d13d-4daa-8a28-a6fc5d3eb59a" />[AI Job Application Co-pilot](https://docs.google.com/spreadsheets/d/1y3Wq9MOhnxDOnKdBUGCmHCM0mUxlVJ8rBPsZePj7Rv0/edit?gid=1204996861#gid=1204996861)
 This project is a comprehensive, automated system designed to streamline the entire job application process—from discovering relevant roles on LinkedIn to generating tailored application materials. It combines a no-code web automation workflow with a powerful AI assistant built directly into Google Sheets.
 
 The system automatically finds and saves relevant job listings, checks for duplicates, and then helps you craft a high-quality, customized application in minutes, not hours.
@@ -72,7 +69,7 @@ AI Model: Google Gemini API (gemini-2.5-pro & gemini-2.5-flash)
 To set up your own version of this system, you will need to configure both the automation workflow and the Google Sheet.
 
 ### 1. Google Sheet Setup
-Make a Copy: Make your own copy of this Google Sheet.
+Make a Copy: [Make your own copy of this Google Sheet](https://docs.google.com/spreadsheets/d/1y3Wq9MOhnxDOnKdBUGCmHCM0mUxlVJ8rBPsZePj7Rv0/edit?gid=1204996861#gid=1204996861).
 
 Configure the Settings Tab:
 
